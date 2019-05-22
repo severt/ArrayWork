@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Fukotaku\ArrayWork;
+namespace Severt\ArrayWork;
 
 /**
  * Class ArrayWork
