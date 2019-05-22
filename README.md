@@ -1,12 +1,8 @@
-[![version](https://img.shields.io/badge/Version-1.1.0-brightgreen.svg)](https://github.com/Fukotaku/fufu/releases/tag/1.1.0)
-[![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%205.6-8892BF.svg)](https://php.net/)
-[![Build Status](https://travis-ci.org/Fukotaku/array-work.svg?branch=master)](https://travis-ci.org/Fukotaku/array-work)
-[![GitHub license](https://img.shields.io/badge/license-New%20BSD-blue.svg)](https://github.com/Fukotaku/fufu/blob/master/LICENSE)
 # array-work
 Php library for easy sorting of data, generate html table and more.
 
 ```bash
-composer require fukotaku/array-work
+composer require severt/array-work
 ```
 
 ## Example
