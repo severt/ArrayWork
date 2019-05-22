@@ -1,5 +1,5 @@
 {
-  "name": "fukotaku/array-work",
+  "name": "severt/ArrayWork",
   "description": "Php library for easy sorting of data, generate html table and more.",
   "type": "library",
   "keywords": [
@@ -8,18 +8,18 @@
     "table",
     "pagination"
   ],
-  "homepage": "https://github.com/Fukotaku/array-work",
+  "homepage": "https://github.com/severt/ArrayWork",
   "license": "BSD 3-clause",
   "authors": [
     {
-      "name": "Fukotaku",
-      "email": "contact@simon-micheneau.fr"
+      "name": "Severt",
+      "email": ""
     }
   ],
   "minimum-stability": "stable",
   "autoload": {
     "psr-4": {
-      "Fukotaku\\ArrayWork\\": "src/"
+      "Severt\\ArrayWork\\": "src/"
     }
   },
   "require": {
