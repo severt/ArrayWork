@@ -2,7 +2,7 @@
 Php library for easy sorting of data, generate html table and more.
 
 ```bash
-composer require severt/array-work
+composer require severt/ArrayWork
 ```
 
 ## Example
